@@ -1,16 +1,14 @@
-### Hi there 👋
+### HOLA / HI 
 
-<!--
-**jesseruu/jesseruu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ES
+Mi nombre es Jesser y actualmente estudio ingenieria de software. Estoy interesado en abrir un portafolio con proyectos personales y/o academicos mientras 
+continuo en la universidad. Apoyo al movimiento de codigo etico y codigo abierto, asi que aqui pueden esperar que todo el codigo este disponible
+para todos bajos una licencia de codigo etico.
 
-Here are some ideas to get you started:
+# EN
+My name is Jesser and I'm studying software engineering. I'm looking to open a portafolio with personal project and/or academic projects while I still study on
+the university. I support open source and ethical source movements so here you can expect that all my code will be avalible for everyone under an ethical source license.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
