@@ -6,7 +6,7 @@ continuo en la universidad. Apoyo al movimiento de codigo etico y codigo abierto
 para todos bajos una licencia de codigo etico.
 
 ### English
-My name is Jesser and I'm studying software engineering. I'm looking to open a portafolio with personal project and/or academic projects while I still study on
+My name is Jesser and I'm studying software engineering. I'm looking to open a portfolio with personal project and/or academic projects while I still study on
 the university. I support open source and ethical source movements so here you can expect that all my code will be avalible for everyone under an ethical source license.
 
 
