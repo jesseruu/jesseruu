@@ -4,4 +4,4 @@ My name is Jesser and I'm studying software engineering. I'm migrating to Gitlab
 
 If you want to go to my Gitlab [click here.][1]
 
-[1]: https://wwww.gitlab.com/jesseruu
+[1]: https://gitlab.com/jesseruu
