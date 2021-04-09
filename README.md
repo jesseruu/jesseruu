@@ -1,8 +1,7 @@
 # Hello
 
-My name is Jesser and I'm studying software engineering. I'm migrating to GitLab so this account eventually will be a 100% mirror of every project that I will do on GitLab!
-In that sense, this will be more like my secondary or backup account which doesn't mean that I will stop using it anytime soon.
+My name is Jesser and I'm studying software engineering. I'm looking to open a portfolio with personal project and/or academic projects while I still study on the university. I support open source and ethical source movements so here you can expect that all my code will be avalible for everyone under an ethical source license.
 
-If you want you can go to my [GitLab account][1]!
+***This is a 100% mirror of my main [GitLab account][1]***
 
 [1]: https://gitlab.com/jesseruu
